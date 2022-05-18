@@ -12,8 +12,10 @@ moneyBox(10);
 
 // Aqui con la estructura closure
 const moneyBox = () => {
+    debugger
     var saveCoins = 0;
     const countCoins = (coins) => {
+        debugger
         saveCoins += coins;
         console.log(`moneyBox: $${saveCoins}`);
     }

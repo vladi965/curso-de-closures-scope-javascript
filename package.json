@@ -1,11 +1,11 @@
 {
   "name": "scope-closure",
   "version": "1.0.0",
-  "description": "",
+  "description": "Curso de Closures scope javascript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vladimir Sanchez",
+  "author": "Vladimir Sanchez Astoray",
   "license": "MIT"
 }

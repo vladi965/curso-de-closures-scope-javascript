@@ -8,19 +8,19 @@
     }
     console.log(fruits1);   
 }
-fruits();
+fruits(); */
 
-let x = 1;
+/* let x = 1;
 {
     //Bloque
     let x = 2;
     console.log(x);
 }
 // Fuera del bloque
-console.log(x);
- */
+console.log(x); */
+ 
 
-const anotherFunction = () => {
+/* const anotherFunction = () => {
     for (let i=0; i< 10; i++){
         setTimeout(() =>{
             console.log(i);
@@ -28,4 +28,17 @@ const anotherFunction = () => {
     }
 };
 
-anotherFunction();
+anotherFunction(); */
+
+/* nameOfDog("Elmo"); 
+
+function nameOfDog(name) 
+{ 
+    console.log(name); 
+}; */
+
+
+const helloWorld = () => { 
+    globalVar = "I'm global"; 
+} 
+helloWorld();
